@@ -183,7 +183,7 @@ body {
 }
 
 .user-image img {
-  text-align: center;
+  vertical-align: middle;
   width: 640px;
   height: 640px;
   object-fit: contain;
