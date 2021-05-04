@@ -275,7 +275,7 @@ body {
 }
 
 .project-image {
-  position: absolute;
+  position: inherit;
   top: 0;
   left: 0;
   margin: 0;
@@ -284,7 +284,7 @@ body {
 .project-image img {
   width: 448px;
   height: 256px;
-  object-fit: cover;
+  object-fit: contain;
 }
 
 .projects p {
