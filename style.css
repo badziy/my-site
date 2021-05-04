@@ -178,14 +178,14 @@ body {
 }
 
 .user-image {
-  position: absolute;
+  position: static;
   margin: 0;
 }
 
 .user-image img {
   width: 640px;
   height: 640px;
-  object-fit: cover;
+  object-fit: none;
 }
 
 .intro .container div {
